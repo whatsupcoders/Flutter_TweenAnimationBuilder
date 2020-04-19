@@ -1,10 +1,18 @@
 # flutter_tweenanimationbuilder
 
-A new Flutter project.
+Simple project demonstrating Tween Animation Builder
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/Flutter_TweenAnimationBuilder/blob/master/assets/tweengif.gif" width="200"/>
+          </td>
+      </tr>
+  </table>
+  </div>
 
 A few resources to get you started if this is your first Flutter project:
 
